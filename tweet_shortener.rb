@@ -31,7 +31,7 @@ def bulk_tweet_shortener(tweet_one)
   end
 end
 
-def selective_tweet_shortener(tweet_one
+def selective_tweet_shortener(tweet_one)
     word_substituter(tweet)
     else 
     tweet 
